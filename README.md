@@ -16,7 +16,7 @@ Simmer is a minimal cooking timer built to demonstrate **AlarmKit** (iOS 26+) en
 
 ## 📺 Watch on YouTube
 
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtube.com/watch?v=PLACEHOLDER)
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/mxm9hF1wSlA)
 
 > This project was built for the [NoahDoesCoding YouTube channel](https://www.youtube.com/@NoahDoesCoding).
 
@@ -56,4 +56,4 @@ Update the bundle identifiers (`com.example.Simmer-Alarmkitdemo` and `com.exampl
 
 ---
 
-📺 [Watch the guide on YouTube](https://youtube.com/watch?v=PLACEHOLDER)
+📺 [Watch the guide on YouTube](https://youtu.be/mxm9hF1wSlA)
